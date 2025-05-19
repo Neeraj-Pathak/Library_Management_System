@@ -39,7 +39,7 @@ The **Library Management System** is a web-based application designed to efficie
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/Neeraj-Pathak/library-management-system.git
 cd library-management-system
 
 # Configure your database in src/main/resources/application.properties
@@ -91,12 +91,3 @@ Access the application at: [http://localhost:8080](http://localhost:8080)
 
 Contributions are welcome! Please fork the repository and submit pull requests. For major changes, open an issue first to discuss.
 
-
-**Tips:**
-
-- Save screenshots inside a `docs/screenshots` folder in your repo.
-- Update the database connection info in your `application.properties`.
-- Replace `yourusername` in the clone URL with your actual GitHub username.
-
-If you want, I can help you create a `LICENSE` file or add a `CONTRIBUTING.md` too!
-```
